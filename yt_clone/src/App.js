@@ -1,7 +1,7 @@
 import './App.css';
 import Navbar from "./components/Navbar"
 import Sidebar from "./components/Sidebar"
-import Vedio from "./components/Vedio"
+import Vedios from "./components/Vedios"
 
 
 
@@ -14,7 +14,7 @@ function App() {
 
       <div className="apps flex">
       <Sidebar />
-      <Vedio />
+      <Vedios />
       </div>
       
     </div>
